@@ -1,4 +1,4 @@
-# IPL-Data-Analysis-using-Pandas
+# IPL Data Analysis Using Pandas
 
 ## Project Overview
 This project contains detailed analysis over IPL dataset using pandas this is a helpful learning repository for data exploration using Pandas  
