@@ -26,7 +26,3 @@ Source: http://cricsheet.org/ (data is available on this website in the YAML for
 - **Technologies**: pandas
 - **Implementation**: Jupyter Notebook
 
-
-## Deployment
-This Repository contains a detailed exploration of IPL dataset using Pandas
-
